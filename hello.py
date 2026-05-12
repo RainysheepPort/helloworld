@@ -21,4 +21,5 @@ ship = rf"""{BLUE}
 {RESET}
 """
 
+
 print(ship)
